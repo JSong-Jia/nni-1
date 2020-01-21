@@ -13,3 +13,4 @@ In addtion to the official tutorilas and examples, we encourage community contri
     Hyper-parameter Tuning Algorithm Comparsion <HpoComparision>
     Parallelizing Optimization for TPE <ParallelizingTpeSearch>
     Automatically tune systems with NNI <TuningSystems>
+    Fresh user experience of NNI: an open source project with highly reasonable design <NNI_AutoFeatureEng>
